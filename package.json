@@ -1,6 +1,6 @@
 {
   "name": "create-js-library",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wrapper around create-react-app to create plain JavaScript/TypeScript libraries",
   "main": "index.js",
   "scripts": {
