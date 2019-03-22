@@ -1,0 +1,26 @@
+{
+  "name": "create-js-library",
+  "version": "0.0.0",
+  "description": "Wrapper around create-react-app to create plain JavaScript/TypeScript libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgarciacamou/create-js-library.git"
+  },
+  "keywords": [
+    "create",
+    "js",
+    "library",
+    "typescript",
+    "javascript"
+  ],
+  "author": "pgarciacamou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgarciacamou/create-js-library/issues"
+  },
+  "homepage": "https://github.com/pgarciacamou/create-js-library#readme"
+}
